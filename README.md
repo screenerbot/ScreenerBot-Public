@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🤖 ScreenerBot
+<img src="assets/logo.svg" alt="ScreenerBot Logo" width="200" height="200" />
+
+# ScreenerBot
 
 ### The First Native Local Trading System for Solana DeFi
 
